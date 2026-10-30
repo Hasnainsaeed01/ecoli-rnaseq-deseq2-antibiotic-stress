@@ -1,0 +1,7 @@
+geo_accession	file	sample	treatment
+GSM6806878	data/GSM6806878_KAN_2.txt.gz	kanamycin_1	kanamycin
+GSM6806879	data/GSM6806879_KAN_3.txt.gz	kanamycin_2	kanamycin
+GSM6806880	data/GSM6806880_KAN_4.txt.gz	kanamycin_3	kanamycin
+GSM6806890	data/GSM6806890_Wu_2.txt.gz	water_1	water
+GSM6806891	data/GSM6806891_Wu_3.txt.gz	water_2	water
+GSM6806892	data/GSM6806892_Wu_4.txt.gz	water_3	water
